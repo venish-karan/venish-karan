@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on project named Wiki Search
-- 🌱 I’m currently learning Django with help from (CS50)[https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0]
+- 🌱 I’m currently learning Django with help from [CS50](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
 - 👯 I’m looking to collaborate on Django projects
 - 🤔 I’m looking for help with open source contribution
 - 💬 Ask me about Django
