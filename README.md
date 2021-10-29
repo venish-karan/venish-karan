@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on projects that are related to Javascript, Django.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, React, Django with help from [CS50](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Django with help from [CS50](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
 - 👯 I’m looking to collaborate on Django projects
