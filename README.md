@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web dev projects.
 - 😄 feel free to checkout my repo's
 - 🔭 the-book-spot-app is my internship project
-- 🌱 MyJavascript repo is loaded with javascript code from datatypes to DOM manupulation.
+- 🌱 MyJavascript repo is loaded with javascript code from datatypes to DOM manipulation.
