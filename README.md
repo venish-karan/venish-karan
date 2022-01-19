@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript, MYSQL, node.js and as usual java
 - 👯 I’m looking to collaborate on web dev projects.
+- 😄 feel free to checkout my repo's
+- 🔭 the-book-spot-app is my internship project
+- 🌱 MyJavascript repo is loaded with javascript code from datatypes to DOM manupulation.
