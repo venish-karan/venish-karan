@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript, MYSQL, node.js and as usual java
+- 🌱 I’m currently learning node.js, express.js, mongodb, react.js short(MERN stack) and as usual java
 - 👯 I’m looking to collaborate on web dev projects.
 - 😄 feel free to checkout my repo's
 - 🔭 the-book-spot-app is my internship project
