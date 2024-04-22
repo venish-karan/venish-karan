@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🌱 experience node.js, express.js, mongodb, react.js short(MERN stack) and as usual java
+- 🌱 experience node.js, express.js, mongodb, react.js short(MERN stack)
 - 👯 I’m looking to collaborate on web dev projects.
 - 😄 feel free to checkout my repo's
 - 🔭 the-book-spot-app is my internship project
