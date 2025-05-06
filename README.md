@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🌱 experience node.js, express.js, MySQL, react.js short(MERN stack)
-- 👯 I’m looking to collaborate on web dev projects.
+- 🌱 experienced in NodeJS, ExpressJS, MySQL, ReactJS (MERN stack)
 - 😄 feel free to checkout my repo's
 - 🔭 the-book-spot-app is my internship project
 - 🌱 MyJavascript repo is loaded with javascript code from datatypes to DOM manipulation.
